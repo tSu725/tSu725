@@ -1,53 +1,58 @@
-# Привет, я Кирилл 👋
+# Hello, my name is Kirill 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/tSu725?style=social)](https://github.com/tSu725)
-[![Telegram](https://img.shields.io/badge/Telegram-@tSu725-blue?logo=telegram)](https://t.me/tSu725)
+[![Telegram](https://img.shields.io/badge/Telegram-@Linux_Kernel_In_My_Heart-blue?logo=telegram)](https://t.me/Linux_Kernel_In_My_Heart)
 
-## 🚀 О себе
+## 🚀 About me
 
-Я начинающий разработчик из России. Интересуюсь:
-- 🔐 Криптографией и безопасностью
-- 🖥️ Системным программированием на C и Go
-- 🌐 Сетевыми технологиями
+I'm a backend developer for embedded systems.  
+I write Python for cloud/edge infrastructure and C/C++ for the hardware layer.
 
 ---
+## 🛠️ My tech stack
 
-## 🛠️ Технологии и инструменты
+### 🐍 Python (Backend & Infrastructure)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![aiogram](https://img.shields.io/badge/aiogram-0088CC?logo=telegram&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-333333?logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white)
 
-| Категория | Технологии |
-|-----------|------------|
-| Языки | ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) |
-| ОС | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) |
-| Инструменты | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) |
+
+### ⚙️ C / C++ (Embedded & Low‑level)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?logo=raspberrypi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+
+**Protocols:** UART, I2C, SPI, GPIO, USB, Ethernet
 
 ---
-
-## 📊 GitHub статистика
-
+## 📊 GitHub stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tSu725&show_icons=true&theme=dark&hide_border=true" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tSu725&layout=compact&theme=dark&hide_border=true" width="48%">
 </div>
-
 ---
 
-## 🎯 Мои цели на 2025
-
-- [ ] Выучить Rust
-- [ ] Сделать свой первый open-source проект
-- [ ] Написать 1000 строк кода на Go
-- [ ] Участвовать в CTF-соревнованиях
-
+## 🧠 LeetCode
+---
+<!-- Placeholder for LeetCode stats -->
+<!-- You can insert a widget like: -->
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=renameduser)](https://github.com/tSu725)
 ---
 
-## 📫 Как со мной связаться
+## 📫 Contact me
 
 - 📧 Email: 1b1o1m1g@gmail.com
-- 💬 Telegram: [@tSu725](https://t.me/tSu725)
+- 💬 Telegram: [@Linux_Kernel_In_My_Heart](https://t.me/Linux_Kernel_In_My_Heart)
 - 🐙 GitHub: [github.com/tSu725](https://github.com/tSu725)
 
 ---
-
-> 💡 **Совет:** Хороший README — это тот, который можно прочитать за 30 секунд и понять, кто ты и чем занимаешься.
-
-⭐️ Не забудьте поставить звёздочку, если зашли в гости!
+## 🐍 Snake
+![Snake animation](https://raw.githubusercontent.com/tSu725/tSu725/output/github-contribution-grid-snake.svg)
