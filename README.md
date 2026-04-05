@@ -32,19 +32,11 @@ I write Python for cloud/edge infrastructure and C/C++ for the hardware layer.
 
 **Protocols:** UART, I2C, SPI, GPIO, USB, Ethernet
 
----
-## 📊 GitHub stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tSu725&show_icons=true&theme=dark&hide_border=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tSu725&layout=compact&theme=dark&hide_border=true" width="48%">
-</div>
----
-
 ## 🧠 LeetCode
 ---
 <!-- Placeholder for LeetCode stats -->
 <!-- You can insert a widget like: -->
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=renameduser)](https://github.com/tSu725)
+![LeetCode Stats](https://leetcard.jacoblin.cool/renameduser?theme=dark&font=Inter)
 ---
 
 ## 📫 Contact me
